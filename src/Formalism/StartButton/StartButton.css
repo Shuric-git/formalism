@@ -1,0 +1,18 @@
+.StartButtonWrapper {
+  width: 49.4%;
+}
+.StartButtonWrapper .StartButtonTitle {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 10px;
+  padding-left: 6px;
+}
+.StartButtonWrapper .StartButton {
+  width: 100%;
+  background-color: #fff;
+  padding: 4px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+
+/*# sourceMappingURL=StartButton.css.map */

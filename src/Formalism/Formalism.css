@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 330px;
+  padding: 10px;
+}
+.container .buttonsWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=Formalism.css.map */
